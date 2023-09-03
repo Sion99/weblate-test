@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-09-03 13:55+0900\n"
-"PO-Revision-Date: 2023-09-03 04:56+0000\n"
-"Last-Translator: Weblate Admin <kmicety1@gmail.com>\n"
+"PO-Revision-Date: 2023-09-04 06:26+0000\n"
+"Last-Translator: USER1 <user1@noreply.org>\n"
 "Language-Team: Korean <http://weblate.example.com/projects/weblate-test/"
 "test-component/ko/>\n"
 "Language: ko\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: test.py:8 test.py:15
 msgid "Hello, world!"
-msgstr "안녕, 세상!"
+msgstr "헬로, 월드!"
 
 #: test.py:9 test.py:16
 msgid "Good Morning"
