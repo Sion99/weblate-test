@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-09-03 13:55+0900\n"
-"PO-Revision-Date: 2023-09-03 04:50+0000\n"
+"PO-Revision-Date: 2023-09-03 04:56+0000\n"
 "Last-Translator: Weblate Admin <kmicety1@gmail.com>\n"
+"Language-Team: Korean <http://weblate.example.com/projects/weblate-test/"
+"test-component/ko/>\n"
 "Language: ko\n"
-"Language-Team: Korean <http://weblate.example.com/projects/weblate-test"
-"/test-component/ko/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: test.py:8 test.py:15
@@ -25,13 +26,12 @@ msgstr "안녕, 세상!"
 
 #: test.py:9 test.py:16
 msgid "Good Morning"
-msgstr ""
+msgstr "좋은 아침입니다"
 
 #: test.py:10 test.py:17
 msgid "Good Afternoon"
-msgstr ""
+msgstr "안녕하세요 (오후)"
 
 #: test.py:11 test.py:18
 msgid "Good Night"
-msgstr ""
-
+msgstr "잘 자요"
